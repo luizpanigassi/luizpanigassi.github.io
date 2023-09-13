@@ -1,11 +1,10 @@
 body {
     font-family: Poppins;
-    background-image: url("luizpanigassi.github.io
-/background.jpg");
+    background-image: url("background.jpg");
 }
 
 h1, h2, p, ul {
-    color: #ADD8E6;
+    color: lightblue;
 }
 
 .container {
