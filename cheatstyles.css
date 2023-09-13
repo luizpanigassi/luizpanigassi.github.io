@@ -1,9 +1,14 @@
 body {
     font-family: Poppins;
+    background-image: url("background.jpg");
+}
+
+h1, h2, p, ul {
+    color: lightblue;
 }
 
 .container {
-    border: 2px solid black;
+    border: 2px solid grey;
     margin: 5px auto;
     padding: 15px;
 }
